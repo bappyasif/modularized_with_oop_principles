@@ -1,0 +1,17 @@
+th {
+    border: 1.1px silver;
+    border-radius: 7px;
+    background-color: skyblue;
+}
+
+thead th {
+    cursor: pointer;
+}
+
+/* body {
+    text-align: center;
+} */
+
+html {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
